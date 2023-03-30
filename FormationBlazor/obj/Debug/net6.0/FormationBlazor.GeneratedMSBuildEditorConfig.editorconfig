@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FormationBlazor
+build_property.RootNamespace = FormationBlazor
+build_property.ProjectDir = C:\Users\Toshiba\Desktop\FormationBlazor\BookServer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Toshiba\Desktop\FormationBlazor\BookServer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/ClassLibConsumer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3NMaWJDb25zdW1lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/Converter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/GeolocationExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VvbG9jYXRpb25FeGFtcGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/RenderTreeExample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVuZGVyVHJlZUV4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/WeeklyForecast.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2Vla2x5Rm9yZWNhc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Shared/ThemeChooser.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRoZW1lQ2hvb3Nlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Shared/WeatherDay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdlYXRoZXJEYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Toshiba/Desktop/FormationBlazor/BookServer/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
